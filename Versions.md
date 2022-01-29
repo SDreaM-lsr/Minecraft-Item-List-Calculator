@@ -3,8 +3,8 @@ This is a calculator to transform schematics material list into it's original ma
 This is made for fabric-schematics.Before using, please make sure that you've already got a csv-file (in game, you should export with pressing shift ).  
 
 
-'**.py -h|--help'  
-'**.py -i <path> [-o <path>] [args]'  
+'\*\*.py -h|--help'  
+'\*\*.py -i <path> [-o <path>] [args]'  
 
 -w|--write: formula-writing mode, for every kind of item without default formula, the calculator will ask you if there is a new formula for it and save it as a new file.  
 -s|--simple: to calculate all kinds of wood as one.(simplified_Chinese only)  
