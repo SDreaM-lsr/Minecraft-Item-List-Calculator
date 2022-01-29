@@ -27,4 +27,4 @@ If not, you may miss those items saved with no formula.
 You'll now see the version at the end of the json file.
 
 This version has no Windows version.
-For Windows user, you may try edit the program file, replace "/" with "\\" in all directories to use this version.
+For Windows user, you may try edit the program file, replace "/" with "\\\\" in all directories to use this version.
