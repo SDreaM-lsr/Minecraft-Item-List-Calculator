@@ -6,9 +6,9 @@ This is made for fabric-schematics.Before using, please make sure that you\'ve a
 got a csv-file (in game, you should export pressing shift ).
 
 
-    ILC.sdm -h|--help
+    **.py -h|--help
 
-    ILC.sdm -i <path> [-o <path>] [args]
+    **.py -i <path> [-o <path>] [args]
   
                         
 -w|--write:            formula-writing mode, for every kind of item without default formula,
